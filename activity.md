@@ -1,4 +1,4 @@
-# Este es el título grande 
+# Este es el título principal 
 ## Este es el segundo más grande
 ### Y así se va haciendo más pequeño 
 #### hasta que llega este 
