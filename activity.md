@@ -3,7 +3,7 @@
 ### Y así se va haciendo más pequeño 
 #### hasta que llega este 
 
-y después texto normal. Para hacer italics use el asterizco *de esta manera en cada lado*. Y para hacer negrilla **usar dos signos en vez de uno**
+For this format is normal sized text. For italics is just "*" on both sides of the *word*, and for bold is just two times that same icon. **Like this**.
 
 ## **A random list**
 - Mango
