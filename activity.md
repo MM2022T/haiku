@@ -22,6 +22,11 @@ For this format is normal sized text. For italics is just "*" on both sides of t
 | --- | --- | --- | -- |
 |Banana|yellow|elongated|medium|
 |Mango|Orange|Oval|Medium|
+## **this is a table with different alignments**
+|to the left|The center|To the right|
+|:--- | :---: | ---:|
+|Text|Text|Text|
+|Text|Text|Text|
 ## **For a link**
 [A photo of a banana and its info](https://www.bbcgoodfood.com/howto/guide/health-benefits-bananas) For link format just [this] and then a link (that I put here)
 ## **A line of code**
