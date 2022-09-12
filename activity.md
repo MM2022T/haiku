@@ -6,10 +6,10 @@
 y después texto normal. Para hacer italics use el asterizco *de esta manera en cada lado*. Y para hacer negrilla **usar dos signos en vez de uno**
 
 ## A random list 
-- Apple
+- Mango
 - Banana
-- Orange
-- Strawberries
+- Apples
+- Papaya
 ## An organized list 
 1. Math
 2. Computer Science
