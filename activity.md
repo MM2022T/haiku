@@ -24,3 +24,5 @@ y después texto normal. Para hacer italics use el asterizco *de esta manera en 
 |Mango|Orange|Oval|Medium|
 ## For a link
 [A photo of a banana and its info](https://www.bbcgoodfood.com/howto/guide/health-benefits-bananas)
+## A line of code
+alert("Hi, my name is Mariana");
