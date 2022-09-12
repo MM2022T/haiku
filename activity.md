@@ -23,4 +23,4 @@ y después texto normal. Para hacer italics use el asterizco *de esta manera en 
 |Banana|yellow|weird|medium|
 |Mango|Orange|Oval|Medium|
 ## For a link
-[A photo of a banana and its info] (https://www.bbcgoodfood.com/howto/guide/health-benefits-bananas)
+[A photo of a banana and its info](https://www.bbcgoodfood.com/howto/guide/health-benefits-bananas)
