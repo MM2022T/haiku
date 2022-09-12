@@ -22,7 +22,7 @@ For this format is normal sized text. For italics is just "*" on both sides of t
 | --- | --- | --- | -- |
 |Banana|yellow|elongated|medium|
 |Mango|Orange|Oval|Medium|
-## **this is a table with different alignments**
+## **This is a table with different alignments**
 |to the left|The center|To the right|
 |:--- | :---: | ---:|
 |Text|Text|Text|
