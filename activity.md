@@ -13,7 +13,7 @@ y después texto normal. Para hacer italics use el asterizco *de esta manera en 
 ## An organized list 
 1. Math
 2. Computer Science
-3. Englisj
+3. English
 4. Literature
 5. Biology
 6. Chemistry
