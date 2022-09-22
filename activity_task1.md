@@ -8,4 +8,4 @@ else:
 ____
 Adding a clickable [word](https://concepto.de/word/)   
 This is a local image: 
-![Image of a flower](flower-img.jpg)
+![Image of a flower](flower-img.jpg)  
