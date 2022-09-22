@@ -6,4 +6,6 @@ if num < 5:
 else:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print('Number is greater than 5.')
 ____
-adding a clickable [word](https://concepto.de/word/)  
+Adding a clickable [word](https://concepto.de/word/)   
+This is a local image: 
+![Image of a flower](flower-img.jpg)
