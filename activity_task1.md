@@ -9,3 +9,5 @@ ____
 Adding a clickable [word](https://concepto.de/word/)   
 This is a local image: 
 ![Image of a flower](flower-img.jpg)  
+This is an image using an internet link:
+![image of nature]()
