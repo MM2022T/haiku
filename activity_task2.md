@@ -7,4 +7,5 @@
 <br>
 <img src="city.jpg" width="10%" height="10%">
 <br>
-this is the clickable imgage: 
+This is the clickable imgage: 
+<a href=https://startrek.com> <img src="city.jpg">
