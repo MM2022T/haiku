@@ -10,4 +10,9 @@ Adding a clickable [word](https://concepto.de/word/)
 This is a local image: 
 ![Image of a flower](flower-img.jpg)  
 This is an image using an internet link:
-![image of nature]()
+![image of nature]()  
+| Fruit | Colour | Shape | Size |
+| ----- | ------ | ----- | ---- |
+| Banana      | Yellow       | Curved      | Small     |
+| Mango      | Orange       | Round      | Small     |
+| Papaya      | Orange       | Elongated      | Large     |
